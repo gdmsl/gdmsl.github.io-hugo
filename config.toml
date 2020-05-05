@@ -1,0 +1,69 @@
+baseurl = "https://gdmsl.github.io"
+title = "Guido Masella"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Guido Masella"
+    info = "PhD in Physics, programmer, and Linux enthusiast"
+    description = "Guido Masella's personal website"
+    keywords = "blog,physicist,developer,personal"
+    avatarurl = "images/avatar.webp"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "With magic, you can turn a frog into a prince. With science, you can turn a frog into a Ph.D and you still have the frog you started with - Terry Pratchett, Science of Discoworld"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    colorscheme = "auto"
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/gdmsl/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab fa-2x"
+    weight = 2
+    url = "https://gitlab.com/gdmsl/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/gdmsl/"
+[[params.social]]
+    name = "Group website"
+    icon = "fas fa-link fa-2x"
+    weight = 3
+    url = "https://qmtheory.fr"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
+
