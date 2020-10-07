@@ -46,9 +46,11 @@ I am author of the following publications and pre-prints:
 
 * X. Deng, G. Masella, G. Pupillo, and L. Santos,
   **Universal algebraic growth of entanglement entropy in many-body localized systems with power-law interactions**,
+  [Phys. Rev. Lett. 125, 010401 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.010401)
   [arXiv:1912.08131](https://arxiv.org/abs/1912.08131).
 * M. Mizoguchi, Y. Zhang, M. Kunimi, A. Tanaka, S. Takeda, N. Takei, V. Bharti, K. Koyasu, T. Kishimoto, D. Jaksch, A. Glaetzle, M. Kiffner, G. Masella, G. Pupillo, M. Weidemüller, and K. Ohmori,
   **Ultrafast creation of overlapping Rydberg electrons in an atomic BEC and Mott-insulator lattice**,
+  [Phys. Rev. Lett. 124, 253201 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.253201)
   [arXiv:1910:05292](https://arxiv.org/abs/1910.05292).
 * T. Botzung, D. Hagenmüller, G. Masella, J. Dubail, N. Defenu, A. Trombettoni, and G. Pupillo
   **Effects of energy extensivity on the quantum phases of long-range interacting systems**,
