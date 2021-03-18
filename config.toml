@@ -113,20 +113,3 @@ pygmentscodefencesguesssyntax = true
             name = "Blog"
             weight = 2
             url = "posts/"
-
-    [languages.fr]
-        languagename = "Français"
-
-            [[languages.fr.param]]
-            keywords = "blog,physicien,développeur,personnel,physique"
-            description = "Le blog de Guido Masella"
-
-            [[languages.fr.menu.main]]
-            name = "Qui souis-je"
-            weight = 1
-            url = "about/"
-
-            [[languages.fr.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
