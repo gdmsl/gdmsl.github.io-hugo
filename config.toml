@@ -92,10 +92,15 @@ pygmentscodefencesguesssyntax = true
             weight = 1
             url = "about/"
 
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
+#[[languages.en.menu.main]]
+#name = "Blog"
+#weight = 2
+#url = "posts/"
+
+#[[languages.en.menu.main]]
+#name = "Gallery"
+#weight = 3
+#url = "gallery/"
 
     [languages.it]
         languagename = "Italiano"
@@ -109,7 +114,12 @@ pygmentscodefencesguesssyntax = true
             weight = 1
             url = "about/"
 
-            [[languages.it.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
+#[[languages.it.menu.main]]
+#name = "Blog"
+#weight = 2
+#url = "posts/"
+
+#[[languages.it.menu.main]]
+#name = "Galleria"
+#weight = 3
+#url = "gallery/"

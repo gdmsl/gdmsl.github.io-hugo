@@ -41,7 +41,8 @@ Ho inoltre contribuito allo sviluppo di [GameTales.it](https://gametales.it), un
 Sono autore delle seguenti pubblicazioni e pre-prints:
 
 * G. Masella, N. V. Prokof'ev, and G. Pupillo, **Anti-Drude Metal of Bosons**,
-  [arXiv:2102.08206](https://arxiv.org/abs/2102.08206).
+    [arXiv:2102.08206](https://arxiv.org/abs/2102.08206) (sarà pubblicato su
+    Nature Communications).
 * X. Deng, G. Masella, G. Pupillo, and L. Santos,
   **Universal algebraic growth of entanglement entropy in many-body localized systems with power-law interactions**,
   [Phys. Rev. Lett. 125, 010401 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.010401)
